@@ -1,0 +1,7 @@
+History.txt
+Manifest.txt
+README.txt
+Rakefile
+bin/testswitch
+lib/testswitch.rb
+test/test_testswitch.rb
